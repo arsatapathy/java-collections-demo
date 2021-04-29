@@ -1,10 +1,11 @@
 package set;
 
+import java.util.Set;
 import java.util.TreeSet;
 
 public class TreeSetTest {
     public static void main(String[] args) {
-        TreeSet<String> ts = new TreeSet<>();
+        Set<String> ts = new TreeSet<>();
 
         ts.add("ashish");
         ts.add("ranjan");
