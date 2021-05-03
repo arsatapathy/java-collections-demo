@@ -1,4 +1,4 @@
-package map;
+package com.arsatapathy.map;
 
 import java.util.Hashtable;
 import java.util.Iterator;

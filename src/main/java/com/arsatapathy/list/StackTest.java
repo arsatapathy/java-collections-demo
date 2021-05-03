@@ -1,4 +1,4 @@
-package list;
+package com.arsatapathy.list;
 
 import java.util.Iterator;
 import java.util.Stack;

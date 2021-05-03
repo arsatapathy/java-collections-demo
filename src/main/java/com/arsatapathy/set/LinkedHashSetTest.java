@@ -1,4 +1,4 @@
-package set;
+package com.arsatapathy.set;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

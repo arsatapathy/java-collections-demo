@@ -1,4 +1,4 @@
-package list;
+package com.arsatapathy.list;
 
 import java.util.LinkedList;
 import java.util.List;

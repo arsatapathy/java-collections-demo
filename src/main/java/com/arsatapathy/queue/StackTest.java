@@ -1,21 +1,19 @@
-package queue;
+package com.arsatapathy.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class ArrayDequeTest {
+public class StackTest {
     public static void main(String[] args) {
         Deque<Integer> arrayDeque = new ArrayDeque<>();
 
         for (int i = 0; i < 5; i++)
-            arrayDeque.add(i);
+            arrayDeque.push(i);
 
 
         System.out.println(arrayDeque);
 
-        arrayDeque.addFirst(-1);
-
-        arrayDeque.addLast(-1);
+        System.out.println(arrayDeque.pop());
 
         System.out.println(arrayDeque);
     }

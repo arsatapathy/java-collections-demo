@@ -1,4 +1,4 @@
-package set;
+package com.arsatapathy.set;
 
 import java.util.Set;
 import java.util.TreeSet;

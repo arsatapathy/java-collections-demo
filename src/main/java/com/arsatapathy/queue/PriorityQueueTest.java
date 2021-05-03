@@ -1,4 +1,4 @@
-package queue;
+package com.arsatapathy.queue;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
